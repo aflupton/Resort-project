@@ -1,0 +1,36 @@
+body {background-color: #DFCFBE;
+
+}
+h1{text-align: left;
+  color: #5A7247;
+   font-weight: 600;
+
+}
+h2{color: #5A7247;
+  font-weight: 600;
+
+
+}
+h3{color: #5A7247;
+
+
+}
+p{color: #5A7247;
+
+}
+ul {color: #5A7247;
+}
+a{color: #5A7247;
+
+}
+center {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 110%;
+  }
+.activitiesImages {
+  display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+}
